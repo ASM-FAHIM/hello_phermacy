@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209887943202",
+    "project_id": "hello-pharmacy-e-comme",
+    "storage_bucket": "hello-pharmacy-e-comme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209887943202:android:07d7f2a91a9f326327887b",
+        "android_client_info": {
+          "package_name": "com.example.hello_pharmecy_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209887943202-spsu51rj66ipljkdjdptfpnasipj0gq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello_pharmecy_e_commerce",
+            "certificate_hash": "2d54a6790d353b3fe93866d8999d48d5c747a84c"
+          }
+        },
+        {
+          "client_id": "209887943202-3lflnnboqv6q1jvcergahnfbttjdu8fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYL4uTVs299LHT2IYkJojCKv1zS7cLq4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209887943202-3lflnnboqv6q1jvcergahnfbttjdu8fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
